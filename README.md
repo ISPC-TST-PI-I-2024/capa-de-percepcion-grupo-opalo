@@ -25,3 +25,4 @@ Como integrantes del equipo, queremos familiarizarnos con el entorno de desarrol
 Issue 1 (grupal)
 
 - Profesor (completado)
+- Vittorio Durigutti
