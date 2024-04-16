@@ -10,6 +10,7 @@ Como integrantes del equipo, queremos familiarizarnos con el entorno de desarrol
 - Joaquin Garzón | GitHub: https://github.com/Joacogarzonn
 - Tomas Repossi | GitHub : https://github.com/TomasRepossi
 - Luciano Lujan | GitHub : https://github.com/lucianoilujan
+
 ### Índice
 
 - **Requisitos**
@@ -18,3 +19,9 @@ Como integrantes del equipo, queremos familiarizarnos con el entorno de desarrol
 - **Investigación**
 - **Prototipo**
 - **Presentación**
+
+### Sprint Actual (#2)
+
+Issue 1 (grupal)
+
+- Profesor (completado)
