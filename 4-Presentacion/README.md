@@ -1,9 +1,4 @@
-## Presentacion TP 1 - 
+## Presentacion
 
-Como integrantes del equipo, queremos familiarizarnos con el entorno
-de desarrollo y herramientas de colaboración para comenzar eficazmente
-nuestro proyecto IoT.
-
-hola
-
+En esta seccion del repositorio se encuentran los recursos para presentacion, y puesta en escena del proyecto IoT, en diferentes formatos que incluyen PDF, video, y diapositivas.
 
