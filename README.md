@@ -23,7 +23,8 @@
 
 Este repositorio está dedicado a la Capa de Almacenamiento del proyecto IoT. Incluye todos los componentes desarrollados y documentación generada por los estudiantes conforme avanzan en la implementación de esta capa del proyecto.
 
-El objetivo principal de este proyecto es crear un sistema IoT que permita monitorear los niveles de glucosa en sangre de un paciente en tiempo real. La arquitectura del sistema incluye un dispositivo IoT que recogerá los datos de glucemia y los enviará a una base de datos para su almacenamiento y análisis. Actualmente, la aplicación Flask se ejecuta localmente y proporciona acceso a una base de datos estática. Esta base de datos será actualizada en tiempo real una vez que el dispositivo IoT prototipo esté en funcionamiento.
+El objetivo principal de este proyecto es crear un sistema IoT que permita monitorear los niveles de glucosa en sangre de un paciente en tiempo real. La arquitectura del sistema incluye un dispositivo IoT que recogerá los datos de glucemia y los enviará a una base de datos para su almacenamiento y análisis. 
+
 
 ### Estructura del Repositorio
 
