@@ -29,14 +29,7 @@ El objetivo principal de este proyecto es crear un sistema IoT que permita monit
 
 - **A requisitos**: Contiene documentos de requisitos proporcionados por el docente.
 - **B investigacion**: Investigaciones realizadas por los estudiantes.
-- **C prototipo**: Implementaciones específicas de la capa de almacenamiento.
-  - **Componentes Principales**
-    - app.py: El archivo principal de la aplicación Flask, que define las rutas y la lógica del servidor web.
-    - static/ y templates/: Directorios utilizados por Flask para servir archivos estáticos y plantillas HTML.
-    - Dockerfile: Archivo utilizado para construir una imagen de Docker que contiene la aplicación Flask.
-    - docker-compose.yml: Archivo de configuración para Docker Compose, que facilita la configuración y ejecución de servicios de Docker.
-    - requirements.txt: Archivo que lista las dependencias de Python necesarias para ejecutar la aplicación Flask.
-    - Proyecto PI.sql: Archivo que contiene las instrucciones SQL para la configuración de la base de datos.
+- **C prototipo**: Implementaciones específicas
 - **D presentacion**: Incluye grabaciones y bitácoras de las reuniones de Scrum, así como las presentaciones de progreso.
 - **zassets**: Contiene recursos gráficos como imágenes y otros archivos necesarios para la documentación.
 
